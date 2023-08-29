@@ -1,0 +1,18 @@
+h1.NombrePerro{color: rgb(255, 0, 0);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li.viñeta1{color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li.viñeta2{color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li.viñeta3{color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li.viñeta4{color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table{border-collapse: initial;border:2px solid rgb(255, 0, 0); background-color: rgb(0, 255, 234);}
+td{border-collapse:collapse;border:1px solid rgb(78, 0, 0); background-color: rgb(75, 255, 4);}
